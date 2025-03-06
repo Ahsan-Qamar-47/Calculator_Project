@@ -8,5 +8,7 @@ int main() {
 } else {
     cout << "Division by zero error!" << endl;
 }
+    cout << "Sum: " << a + b << endl;
+    cout << "Product: " << a * b << endl;
     return 0;
 }
