@@ -11,5 +11,6 @@ int main() {
 }
     cout << "Sum: " << a + b << endl;
     cout << "Product: " << a * b << endl;
+    cout << "This change is from conflict_branch2" << endl;
     return 0;
 }
