@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Your Name, Roll Number" << endl;
+    cout << "Difference: " << a - b << endl;
     if (b != 0) {
     cout << "Quotient: " << a / b << endl;
 } else {
